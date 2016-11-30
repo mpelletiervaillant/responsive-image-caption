@@ -23,6 +23,7 @@ body {
 
 figure {
   margin: 0;
+  background-color: #e2e2e2;
 }
 
 img {
@@ -30,9 +31,11 @@ img {
   display: inline-block;
 }
 
+h2 {
+  font-family: 'Denk One', sans-serif;
+}
 
-
-
-
-
-font-family: 'Denk One', sans-serif;
+div.body {
+  padding: 1em;
+  padding-top: 0;
+}
